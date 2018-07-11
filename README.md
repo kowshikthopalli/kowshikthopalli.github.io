@@ -1,2 +1,2 @@
 # kowshikthopalli.github.io
-THis is my personal page.
+This is my personal page.
