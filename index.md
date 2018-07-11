@@ -1,7 +1,10 @@
 ## Welcome to GitHub Pages
 This is my personal page. 
 
-I am a PhD student in the [Geometric Media lab](https://pavanturaga.com/geometric-media-lab/). My advisor is [Dr. Pavan Turaga](https://pavanturaga.com/)
+I am a PhD student in the [Geometric Media lab](https://pavanturaga.com/geometric-media-lab/). My advisor is [Dr. Pavan Turaga](https://pavanturaga.com/). 
+I did my Master's thesis in the same lab and my thesis can be found [here](https://repository.asu.edu/attachments/194121/content/Thopalli_asu_0010N_17544.pdf)
+# News
+1. One paper accepted for ECCV 2018 - Joint work by Anirudh Som, Karthikeyan Ramamurthy,Vinay Venkataraman, Ankita Shukla and Pavan Turaga. 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
