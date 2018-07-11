@@ -1,5 +1,5 @@
 
-# Hi, my name is Kowshik Thopalli and I welcome you to my page. 
+## Hi, my name is Kowshik Thopalli and I welcome you to my page. 
 
 I am a PhD student in the [Geometric Media lab](https://pavanturaga.com/geometric-media-lab/). My advisor is [Dr. Pavan Turaga](https://pavanturaga.com/). 
 I did my Master's thesis in the same lab and my thesis can be found [here](https://repository.asu.edu/attachments/194121/content/Thopalli_asu_0010N_17544.pdf). 
