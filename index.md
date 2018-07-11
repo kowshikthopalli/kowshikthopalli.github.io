@@ -1,8 +1,7 @@
 ## Welcome to GitHub Pages
 This is my personal page. 
 
-I am a PhD student in the Geometric Media lab [Link] https://pavanturaga.com/geometric-media-lab/
-
+I am a PhD student in the [Geometric Media lab](https://pavanturaga.com/geometric-media-lab/). My advisor is [Dr. Pavan Turaga](https://pavanturaga.com/)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
