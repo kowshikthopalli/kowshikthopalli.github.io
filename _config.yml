@@ -2,5 +2,7 @@ theme: jekyll-theme-slate
 title: Kowshik Thopalli
 description: I am a first year PhD student in Arizona State University. I am advised by  Dr. Pavan Turaga. 
 author : Kowshik Thopalli
+github_username: kowshikthopalli
 plugins:
   - jekyll-seo-tag
+markdown: kramdown
