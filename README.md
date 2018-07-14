@@ -1,2 +1,2 @@
 # kowshikthopalli.github.io
-This is my personal page.
+HI. My name is Kowshik Thopalli. This is my personal page.
