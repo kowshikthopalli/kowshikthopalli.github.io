@@ -16,3 +16,12 @@ kramdown:
   auto_ids: true
   syntax_highlighter: rouge
 
+twitter:
+  username: kowshik0808
+social:
+  name: Kowshik Thopalli
+  links:
+    - https://www.linkedin.com/in/kowshik-thopalli-281bb255
+    - https://twitter.com/kowshik0808
+    - https://github.com/kowshikthopalli
+  
