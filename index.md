@@ -8,7 +8,7 @@ My broad research area is in Computer Vision. I am interested in Computer Vision
 # News
 - Nov 2019- Preprint of our work -titled ['Invenio: Discovering Hidden Relationships Between Tasks/Domains Using Structured Meta Learning'](https://arxiv.org/abs/1911.10600) has been released on arxiv. Joint work with  Sameeksha Katoch, Dr.Jayaraman J Thiagarajan,Dr.Pavan Turaga and Dr.Andreas Spanias 
 - Nov 2019 - We updated our work https://arxiv.org/pdf/1906.04338.pdf on unsupervised visual domain adaptation -titled ['SALT: Subspace Alignment as an Auxiliary Learning'](https://arxiv.org/pdf/1906.04338.pdf) with new experiments and a complete rewriting of the introduction
-- I received Best poster award, Most impactful , most innovative and people's choice awards for my work at SRI. The research paper that came out of my work at SRI is currently under review 
+- I received Best poster award, Most impactful , most innovative and people's choice awards for my work at SRI. The resulting research paper is currently under review 
 - May 2019- Started a three month summer internship focussing on Deep Reinforcement learning for visual navigation at [SRI international](https://en.wikipedia.org/wiki/SRI_International) in   Computer Vision Technologies department in Princeton New Jersey. Internship is under the mentorship of  Dr. Zachary Seymour and Dr. Han-pang chiu. 
 
 - May 2019- Preprint of our [paper](https://arxiv.org/pdf/1906.04338.pdf) -titled 'SALT: Subspace Alignment as an Auxiliary Learning
