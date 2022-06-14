@@ -1,0 +1,18 @@
+TY  - JOUR
+AU  - Thiagarajan, Jayaraman J.
+AU  - Thopalli, Kowshik
+AU  - Rajan, Deepta
+AU  - Turaga, Pavan
+PY  - 2022
+DA  - 2022/01/12
+TI  - Training calibration-based counterfactual explainers for deep learning models in medical image analysis
+JO  - Scientific Reports
+SP  - 597
+VL  - 12
+IS  - 1
+AB  - The rapid adoption of artificial intelligence methods in healthcare is coupled with the critical need for techniques to rigorously introspect models and thereby ensure that they behave reliably. This has led to the design of explainable AI techniques that uncover the relationships between discernible data signatures and model predictions. In this context, counterfactual explanations that synthesize small, interpretable changes to a given query while producing desired changes in model predictions have become popular. This under-constrained, inverse problem is vulnerable to introducing irrelevant feature manipulations, particularly when the model’s predictions are not well-calibrated. Hence, in this paper, we propose the TraCE (training calibration-based explainers) technique, which utilizes a novel uncertainty-based interval calibration strategy for reliably synthesizing counterfactuals. Given the wide-spread adoption of machine-learned solutions in radiology, our study focuses on deep models used for identifying anomalies in chest X-ray images. Using rigorous empirical studies, we demonstrate the superiority of TraCE explanations over several state-of-the-art baseline approaches, in terms of several widely adopted evaluation metrics. Our findings show that TraCE can be used to obtain a holistic understanding of deep models by enabling progressive exploration of decision boundaries, to detect shortcuts, and to infer relationships between patient attributes and disease severity.
+SN  - 2045-2322
+UR  - https://doi.org/10.1038/s41598-021-04529-5
+DO  - 10.1038/s41598-021-04529-5
+ID  - Thiagarajan2022
+ER  - 
